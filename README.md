@@ -1,11 +1,12 @@
-### olá! eu sou o wellington! ✋
+### olá! me chamo wellington! ✋
+#### atualmente estou realizando o curso de desenvolvedor front-end
 
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wellington_de_franca)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wellington52378@gmail.com)
 
+![wellington067 GitHub stats](https://github-readme-stats.vercel.app/api?username=wellington067&show_icons=true&theme=tokyonight) 
 
-![wellington067 GitHub stats](https://github-readme-stats.vercel.app/api?username=wellington067&show_icons=true&theme=tokyonight)
 <div style="display: inline-block"><br/>
 
 
