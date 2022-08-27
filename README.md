@@ -22,4 +22,4 @@
   <br/>
 <div/>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellington067&layout=compact&langs_count=6)](https://github.com/wellington067/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellington067&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/wellington067/github-readme-stats)
