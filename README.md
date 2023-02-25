@@ -1,4 +1,4 @@
-### olá! me chamo wellington! ✋
+
 #### atualmente estou realizando o curso de desenvolvedor front-end
 
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wellington_de_franca)
