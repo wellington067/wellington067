@@ -1,5 +1,5 @@
 
-#### olá, me chamo José Wellington, tenho 19 anos, sou desenvolvedor web, desde pequeno sempre gostei da área de tecnologia, tenho curso de desenvolvedor front-end e vários outros cursos relacionados à área de programação, atualmente estou participando de um bootcamp na plataforma de ensino DIO(https://www.dio.me/) que consiste em um treinamento intensivo de JAVA organizado pelo banco pan.
+#### Olá! Me chamo José Wellington, tenho 19 anos, sou desenvolvedor web e desde pequeno sempre gostei da área de tecnologia. Tenho curso de desenvolvedor front-end, feito na plataforma de ensino da softex de recife, onde o mesmo consistiu em um processo seletivo com quase 10 mil candidatos para selecionar somente mil para a realização do curso. Atualmente estou participando de um bootcamp na plataforma de ensino DIO(https://www.dio.me/) que consiste em um treinamento intensivo de JAVA organizado pelo banco pan.
 
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wellington_de_franca)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
