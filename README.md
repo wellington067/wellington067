@@ -23,7 +23,6 @@
   <br/>
   <hr/>
   <br/>
-     <div>
-        <a href="https://drive.google.com/file/d/1g53U77HK7nxhYmbQAC7-9jE16uf_Lpzi/view?usp=share_link"><img height="100em" widht="100em" src="https://styles.redditmedia.com/t5_3sr5cq/styles/communityIcon_k635u93wwaw81.jpg?format=pjpg&s=37cc0c3373c2fea56541a221efbc2452cf7bd606" alt=""></a>
-    </div>
+        
+    
 <div/>
