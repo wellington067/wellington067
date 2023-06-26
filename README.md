@@ -3,7 +3,7 @@
 
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wellington_de_franca)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/wellington_de_franca)
-
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-wellington-de-frança-da-costa)
 <div>
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellington067&show_icons=true&theme=tokyonight" alt="">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellington067&layout=compact&langs_count=6&theme=tokyonight" alt="">
