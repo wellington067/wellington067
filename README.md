@@ -24,7 +24,9 @@
   <img align= "center" alt= "flutter" src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">      
   
   <img align= "center" alt= "dart" src= "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">      
-    
+
+   <!--<img align= "center" width= "50px" alt= "dart" src= "https://cdn.icon-icons.com/icons2/3053/PNG/512/electron_macos_bigsur_icon_190206.png"> -->    
+   
   <br/>
   <hr/>
   <br/>
