@@ -25,7 +25,9 @@
   
   <img align= "center" alt= "dart" src= "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">      
 
-   <img align= "center" width= "100px" alt= "dart" src= "https://www.vozidea.com/wp-content/uploads/2018/08/electron-framework.png">  
+ <!-- <img align= "center" width= "100px" alt= "electron" src= "https://www.vozidea.com/wp-content/uploads/2018/08/electron-framework.png"> --> 
+  
+  <!--<img align= "center" width= "100px" alt= "ionic" src= "https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">  -->
    
   <br/>
   <hr/>
