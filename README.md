@@ -1,20 +1,20 @@
 
 ![capa de perfil](https://github.com/wellington067/wellington067/assets/109475692/c47d039d-1d15-4290-8e27-3eb5e9b0c7e2)
+
 #### Olá! Me chamo José Wellington, tenho 19 anos, sou desenvolvedor web e desde pequeno sempre gostei da área de tecnologia. Tenho curso de desenvolvedor front-end, feito na plataforma de ensino da softex de recife, onde o mesmo consistiu em um processo seletivo com quase 10 mil candidatos para selecionar somente mil para a realização do curso. Atualmente estou aprimorando meus conhecimentos sobre desenvolvimento de sites e desenvolvimento mobile, em específico na parte de front-end, logo logo estarei me atualizando também sobre as tecnologias utilizadas no back-end. Estou participando de um projeto no LMTS (laboratório multidisciplinar de tecnologias sociais) da UFAPE (Universidade Federal do Agreste de Pernambuco) como bolsista. as tecnologias usadas no projeto são: html, css, javascript, react JS, ionic e php.
+
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wellington_de_franca)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/wellington_de_franca)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-wellington-de-frança-da-costa)
 
 <!--[![portfólio](https://github-production-user-asset-6210df.s3.amazonaws.com/109475692/266388324-6fe31e83-8bf1-4c41-ba36-a66624876ca5.png)](https://wellington067.github.io)-->
 
-<div>
+div>
         <img height="180em" src="https://github-readme-stats-pi-liard.vercel.app/api?username=wellington067&show_icons=true&theme=tokyonight" alt="">
-        <img height="180em" src="https://github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=wellington067&layout=compact&langs_count=10&theme=tokyonight" alt="">
-    </div>
+        <img height="180em" src="https://github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=wellington067&layout=compact&langs_count=9&theme=tokyonight" alt="">
+</div>
 
 <div style="display: inline-block"><br/>
-
-
   <img align= "center" alt= "HTML5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align= "center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align= "center" alt= "javascript" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -25,9 +25,6 @@
   <img align= "center" alt= "figma" src= "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img align= "center" width=87px alt= "dart" src= "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 
-
-
-  
 <!--  <img align= "center" alt= "java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black">
   <img align= "center" alt= "spring" src= "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black">
   <img align= "center" alt= "laravel" top= "1000px" src= "https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
@@ -42,9 +39,6 @@
   <img align= "center" alt= "angular" src= "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align= "center" alt= "vuejs" src= "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   <img align= "center" alt= "php" src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> -->
-
-  
-   
   <br/>
   <hr/>
   <br/>
