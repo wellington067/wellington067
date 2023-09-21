@@ -9,7 +9,7 @@
 
 <!--[![portfólio](https://github-production-user-asset-6210df.s3.amazonaws.com/109475692/266388324-6fe31e83-8bf1-4c41-ba36-a66624876ca5.png)](https://wellington067.github.io)-->
 
-div>
+<div>
         <img height="180em" src="https://github-readme-stats-pi-liard.vercel.app/api?username=wellington067&show_icons=true&theme=tokyonight" alt="">
         <img height="180em" src="https://github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=wellington067&layout=compact&langs_count=9&theme=tokyonight" alt="">
 </div>
