@@ -11,7 +11,7 @@
 
 <div>
         <img height="180em" src="https://github-readme-stats-pi-liard.vercel.app/api?username=wellington067&show_icons=true&theme=tokyonight" alt="">
-        <img height="180em" src="https://github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=wellington067&layout=compact&langs_count=10&theme=tokyonight" alt="">
+        <img height="180em" src="https://github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=wellington067&layout=compact&langs_count=6&theme=tokyonight" alt="">
 </div>
 
 <div style="display: inline-block"><br/>
