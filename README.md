@@ -1,5 +1,5 @@
 
-![capa de perfil](https://github.com/wellington067/wellington067/assets/109475692/c47d039d-1d15-4290-8e27-3eb5e9b0c7e2)
+![Banner](https://github.com/wellington067/wellington067/assets/109475692/94489891-1789-4e80-8e7b-67413cc0fbe2)
 
 <p>Hello! My name is José Wellington, I'm 20 years old, I'm a web and mobile developer and since I was little I've always liked the technology area. I have a front-end developer course, done on the teaching platform of softex in Recife. I'm improving my knowledge about Web and Mobile development, specifically in the front-end part, soon I'll also be updating myself on the technologies used in the back-end. Currently, I am participating in two projects in the Multidisciplinary Laboratory of Social Technologies (LMTS) at UFAPE. One of them consists of an application to help the academic community of UFAPE to have easier access to information. In addition, I am involved in the development of an agricultural management system for farmers in Bonito-PE. I also like to read fiction books and PDFs related to programming.  The technologies used in the projects are: HTML, CSS, JavaScript, Node JS, React JS, Dart and Flutter.</p>
 
