@@ -33,16 +33,20 @@
   <img align= "center" alt= "TailwindCss" src= "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img align= "center" alt= "php" src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
 
-<!--  <img align= "center" alt= "java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black">
+<!--  
+  <img align= "center" alt= "java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black">
   <img align= "center" alt= "spring" src= "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black">
   <img align= "center" alt= "laravel" top= "1000px" src= "https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img align= "center" width= "100px" alt= "electron" src= "https://www.vozidea.com/wp-content/uploads/2018/08/electron-framework.png"> 
-  <img align= "center" width= "90px" alt= "ionic" src= "https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
+  <img align= "center" alt= "electron" width= "100px" src= "https://www.vozidea.com/wp-content/uploads/2018/08/electron-framework.png"> 
+  <img align= "center" alt= "ionic" width= "90px" src= "https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
   <img align= "center" alt= "mongodb" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=gray">
   <img align= "center" alt= "mariadb" src= "https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
   <img align= "center" alt= "jquery" src= "https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img align= "center" alt= "angular" src= "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align= "center" alt= "vuejs" src= "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img align= "center" alt= "express js" src= "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+  <img align= "center" alt= "React Native" src= "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
   -->
   <br/>
   <hr/>
