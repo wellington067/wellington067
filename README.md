@@ -1,7 +1,17 @@
 
 ![Banner](https://github.com/wellington067/wellington067/assets/109475692/94489891-1789-4e80-8e7b-67413cc0fbe2)
 
-<p>Hello! My name is José Wellington, I'm 20 years old, I'm a web and mobile developer and since I was little I've always liked the technology area. I have a front-end developer course, done on the teaching platform of softex in Recife. I'm improving my knowledge about Web and Mobile development, specifically in the front-end part, soon I'll also be updating myself on the technologies used in the back-end. Currently, I am participating in two projects in the Multidisciplinary Laboratory of Social Technologies (LMTS) at UFAPE. One of them consists of an application to help the academic community of UFAPE to have easier access to information. In addition, I am involved in the development of an agricultural management system for farmers in Bonito-PE. I also like to read fiction books and PDFs related to programming.  The technologies used in the projects are: HTML, CSS, JavaScript, Node JS, React JS, Dart and Flutter.</p>
+<p>Olá! Meu nome é José Wellington, tenho 20 anos e sou desenvolvedor web e mobile. Desde
+pequeno, sempre fui apaixonado por tecnologia. Realizei um curso de desenvolvedor Front-End na
+plataforma de ensino da Softex. Assim que entrei na Universidade Federal do Agreste de
+Pernambuco (UFAPE), em menos de um mês, fui selecionado para integrar a equipe do Laboratório
+Multidisciplinar de Tecnologias Sociais (LMTS) como desenvolvedor web/mobile, concorrendo a
+apenas três vagas de bolsista entre mais de 30 inscritos.
+No LMTS, estou envolvido em projetos como o desenvolvimento de aplicativos e sistemas web,
+além de contribuir para a gestão do laboratório. Tenho também conhecimentos em design gráfico
+e experiência em atendimento ao público. Sou dedicado a aprender novas tecnologias e a
+gerenciar múltiplas tarefas de forma eficiente.
+Além disso, gosto de ler livros de ficção e materiais sobre programação.</p>
 
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wellington_de_franca)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/wellington_de_franca)
