@@ -45,6 +45,7 @@ Além disso, gosto de ler livros de ficção e materiais sobre programação.</p
   <img align= "center" alt= "express js" src= "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img align= "center" alt= "java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black">
   <img align= "center" alt= "TypeScript" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align= "center" width=90px alt= "dart" src= "https://www.shopweb.in/images/bbsr/softwarecompanyinbbsr15.jpg">
 
 
 <!--  
