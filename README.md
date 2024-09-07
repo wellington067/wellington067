@@ -48,6 +48,7 @@ Além disso, gosto de ler livros de ficção e materiais sobre programação.</p
 
 
 <!--  
+  <img align= "center" alt= "AWS" src= "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img align= "center" alt= "spring" src= "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black">
   <img align= "center" alt= "laravel" top= "1000px" src= "https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img align= "center" alt= "electron" width= "100px" src= "https://www.vozidea.com/wp-content/uploads/2018/08/electron-framework.png"> 
