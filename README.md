@@ -62,9 +62,6 @@ Além disso, gosto de ler livros de ficção e materiais sobre programação.</p
   <img align= "center" alt= "React Native" src= "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
   -->
-  <br/>
-  <hr/>
-  <br/>
-   <img align= "center" alt= "gtx-1650" src= "https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+
     
 <div/>
