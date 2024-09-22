@@ -1,7 +1,7 @@
 
 ![Banner](https://github.com/wellington067/wellington067/assets/109475692/94489891-1789-4e80-8e7b-67413cc0fbe2)
 
-<p>Olá! Meu nome é José Wellington, tenho 20 anos e sou desenvolvedor web e mobile. Desde
+<p>Olá! Meu nome é José Wellington, tenho 21 anos e sou desenvolvedor web e mobile. Desde
 pequeno, sempre fui apaixonado por tecnologia. Realizei um curso de desenvolvedor Front-End na
 plataforma de ensino da Softex. Assim que entrei na Universidade Federal do Agreste de
 Pernambuco (UFAPE), em menos de um mês, fui selecionado para integrar a equipe do Laboratório
