@@ -45,6 +45,7 @@ Além disso, gosto de ler livros de ficção e materiais sobre programação.</p
   <img align= "center" alt= "java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black">
   <img align= "center" alt= "TypeScript" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align= "center" width=90px alt= "dart" src= "https://www.shopweb.in/images/bbsr/softwarecompanyinbbsr15.jpg">
+  <img align= "center" alt= "jquery" src= "https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 
 
 <!--  
@@ -55,7 +56,6 @@ Além disso, gosto de ler livros de ficção e materiais sobre programação.</p
   <img align= "center" alt= "ionic" width= "90px" src= "https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
   <img align= "center" alt= "mongodb" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=gray">
   <img align= "center" alt= "mariadb" src= "https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-  <img align= "center" alt= "jquery" src= "https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img align= "center" alt= "angular" src= "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align= "center" alt= "vuejs" src= "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   <img align= "center" alt= "React Native" src= "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
