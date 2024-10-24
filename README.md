@@ -46,6 +46,10 @@ Além disso, gosto de ler livros de ficção e materiais sobre programação.</p
   <img align= "center" alt= "TypeScript" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align= "center" width=90px alt= "dart" src= "https://www.shopweb.in/images/bbsr/softwarecompanyinbbsr15.jpg">
   <img align= "center" alt= "jquery" src= "https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img align= "center" alt= "Twilio" src= "https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white">
+  <img align= "center" alt= "Azure Devops" src= "https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
+  <img align= "center" alt= "Redis" src= "https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
+  <img align= "center" alt= "Prisma" src= "https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
 
 
 <!--  
