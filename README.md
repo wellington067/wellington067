@@ -50,6 +50,7 @@ Além disso, gosto de ler livros de ficção e materiais sobre programação.</p
   <img align= "center" alt= "Azure Devops" src= "https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
   <img align= "center" alt= "Redis" src= "https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
   <img align= "center" alt= "Prisma" src= "https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
+  <img align= "center" alt= "Jira" src= "https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 
 
 <!--  
