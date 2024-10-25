@@ -51,7 +51,8 @@ Além disso, gosto de ler livros de ficção e materiais sobre programação.</p
   <img align= "center" alt= "Redis" src= "https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
   <img align= "center" alt= "Prisma" src= "https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
   <img align= "center" alt= "Jira" src= "https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-  <img align= "center" width=90px alt= "Nest.js" src= "https://github.com/user-attachments/assets/18db924a-2fdb-4c26-925f-82a61b7ffb53">
+  <img align= "center" width=90px alt= "Nest.js" src= "https://github.com/user-attachments/assets/002949b0-cd9f-4cab-a693-d5fdf08fdaf8">
+<!--   <img align= "center" width=90px alt= "Nest.js" src= "https://github.com/user-attachments/assets/18db924a-2fdb-4c26-925f-82a61b7ffb53"> -->
 
 
 <!--  
