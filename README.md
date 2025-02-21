@@ -53,6 +53,7 @@ Além disso, gosto de ler livros de ficção e materiais sobre programação.</p
   <img align= "center" alt= "Jira" src= "https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
   <img align= "center" width=90px alt= "Nest.js" src= "https://github.com/user-attachments/assets/69eb183c-7197-4861-bc18-0d333e2d38ad">
   <img align= "center" width=90px alt= "Next.js" src= "https://github.com/user-attachments/assets/9bb31ce4-6b23-44d2-a4af-2f873299ec32">
+  <img align= "center" width=170px alt= "Dynamo" src= "https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">
 
 
 <!--  
