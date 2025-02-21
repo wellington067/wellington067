@@ -54,10 +54,10 @@ Além disso, gosto de ler livros de ficção e materiais sobre programação.</p
   <img align= "center" width=90px alt= "Nest.js" src= "https://github.com/user-attachments/assets/69eb183c-7197-4861-bc18-0d333e2d38ad">
   <img align= "center" width=90px alt= "Next.js" src= "https://github.com/user-attachments/assets/9bb31ce4-6b23-44d2-a4af-2f873299ec32">
   <img align= "center" width=170px alt= "Dynamo" src= "https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">
+  <img align= "center" alt= "AWS" src= "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 
 
 <!--  
-  <img align= "center" alt= "AWS" src= "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img align= "center" alt= "spring" src= "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black">
   <img align= "center" alt= "laravel" top= "1000px" src= "https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img align= "center" alt= "electron" width= "100px" src= "https://www.vozidea.com/wp-content/uploads/2018/08/electron-framework.png"> 
