@@ -9,7 +9,7 @@ apenas três vagas de bolsista entre mais de 30 inscritos.
 No LMTS, trabalhei em projetos relacionados a desenvolvimento de aplicativos e sistemas web,
 além de contribuir para a gestão do laboratório. Tenho também conhecimentos em design gráfico
 e experiência em atendimento ao público. Sou dedicado a aprender novas tecnologias e a
-gerenciar múltiplas tarefas de forma eficiente. Atualmente, atuo como Analista de Software Júnior na Show Tecnologia, focado na resolução de bugs, otimização de funcionalidades existentes e desenvolvimento de novas soluções para aprimorar a performance e a experiência dos usuários no sistema da empresa.
+gerenciar múltiplas tarefas de forma eficiente. Atualmente, atuo como Analista de Software na Show Tecnologia, focado na resolução de bugs, otimização de funcionalidades existentes e desenvolvimento de novas soluções para aprimorar a performance e a experiência dos usuários no sistema da empresa.
 Além disso, gosto de ler livros de ficção e materiais sobre programação.</p>
 
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wellington_de_franca)
