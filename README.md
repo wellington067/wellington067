@@ -1,16 +1,9 @@
 
 ![Banner](https://github.com/wellington067/wellington067/assets/109475692/94489891-1789-4e80-8e7b-67413cc0fbe2)
 
-<p>Olá! Meu nome é José Wellington, tenho 22 anos e sou desenvolvedor FullStack web e mobile. Desde
-pequeno, sempre gostei da área de tecnologia. Assim que entrei na Universidade Federal do Agreste de
-Pernambuco (UFAPE), em menos de um mês, fui selecionado para integrar a equipe do Laboratório
-Multidisciplinar de Tecnologias Sociais (LMTS) como desenvolvedor web/mobile, concorrendo a
-apenas três vagas de bolsista entre mais de 30 inscritos.
-No LMTS, trabalhei em projetos relacionados a desenvolvimento de aplicativos e sistemas web,
-além de contribuir para a gestão do laboratório. Tenho também conhecimentos em design gráfico
-e experiência em atendimento ao público. Sou dedicado a aprender novas tecnologias e a
-gerenciar múltiplas tarefas de forma eficiente. Atualmente, atuo como Analista de Software na Show Tecnologia, focado na resolução de bugs, otimização de funcionalidades existentes e desenvolvimento de novas soluções para aprimorar a performance e a experiência dos usuários no sistema da empresa.
-Além disso, gosto de ler livros de ficção e materiais sobre programação.</p>
+<p>Sou Desenvolvedor Full Stack Web e Mobile, com experiência prática em desenvolvimento, manutenção e evolução de sistemas em produção. Atuo no desenvolvimento de novas funcionalidades, refatorações, correção de bugs e otimização de performance, sempre com foco em qualidade de código, escalabilidade e experiência do usuário.
+
+Possuo vivência com todas as tecnologias listadas, atuando tanto no front-end quanto no back-end, além de integração com bancos de dados, serviços externos e ambientes em nuvem. Tenho perfil analítico, organizado e orientado à solução de problemas em sistemas complexos.</p>
 
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wellington_de_franca)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/wellington_de_franca)
